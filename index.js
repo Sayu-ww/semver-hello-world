@@ -34,6 +34,7 @@ function greetWithStyle(name = "World", style = "standard") {
   throw new Error(`Unsupported style: ${style}`);
 }
 
+
 console.log(greet());
 console.log(greetInLanguage("Alex", "ru"));
 console.log(greetWithStyle("Alex", "uppercase"));
