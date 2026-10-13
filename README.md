@@ -27,6 +27,7 @@ Versions use the format `MAJOR.MINOR.PATCH`:
 | Version | Changes |
 |---|---|
 | v1.0.0 | Initial release: Hello World application. |
+| v1.1.0 | Added multilingual greeting support. |
 
 ## License
 
